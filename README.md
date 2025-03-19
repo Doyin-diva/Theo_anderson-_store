@@ -1,2 +1,4 @@
 # Theo_anderson-_store
-Dashboard of theo anderson store
+This dashboard is for Theoanderson
+
+
